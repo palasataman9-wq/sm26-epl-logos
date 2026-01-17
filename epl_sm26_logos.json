@@ -1,0 +1,24 @@
+{
+  "ClubData": [
+    { "ID": 1, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg" },
+    { "ID": 2, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/0/0a/Aston_Villa_FC.svg" },
+    { "ID": 3, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/e/eb/AFC_Bournemouth.svg" },
+    { "ID": 4, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/1/1d/Brentford_FC_crest.svg" },
+    { "ID": 5, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg" },
+    { "ID": 6, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/8/82/Chelsea_FC.svg" },
+    { "ID": 7, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/a/a2/Crystal_Palace_FC_logo.svg" },
+    { "ID": 8, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg" },
+    { "ID": 9, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/5/5f/Fulham_FC_%28shield%29.svg" },
+    { "ID": 10, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/0/05/Liverpool_FC.svg" },
+    { "ID": 11, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg" },
+    { "ID": 12, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg" },
+    { "ID": 13, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg" },
+    { "ID": 14, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/8/8c/Nottingham_Forest_FC_logo.svg" },
+    { "ID": 15, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/c/c9/Sheffield_United_FC_logo.svg" },
+    { "ID": 16, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg" },
+    { "ID": 17, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/4/4d/West_Ham_United_FC_logo.svg" },
+    { "ID": 18, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/f/fc/Wolverhampton_Wanderers.svg" },
+    { "ID": 19, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/6/6c/Luton_Town_FC_logo.svg" },
+    { "ID": 20, "ImageURL": "https://upload.wikimedia.org/wikipedia/en/1/1b/Burnley_FC_Logo.svg" }
+  ]
+}
